@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @carlosbionic
-- 👀 I’m interested in Physics and Python.
+- 👀 I’m interested in Python, MATLAB, and others.
 - 🌱 I’m currently learning Web Development, currently using Django.
 - 💞️ I’m looking to collaborate on any related project.
 - 📫 How to reach me: carlosaprado@gmail.com
