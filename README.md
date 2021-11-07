@@ -1,3 +1,6 @@
+<img src="https://github.com/carlosbionic/carlosbionic/blob/main/header.png
+" alt="banner image carlos">
+
 - 👋 Hi, I’m @carlosbionic
 - 👀 I’m interested in Python, MATLAB, and others.
 - 🌱 I’m currently learning Web Development, currently using Django.
