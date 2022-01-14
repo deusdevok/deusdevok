@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 **About me**
 
-- 👀 I’m interested in Python, MATLAB, HTML and more.
+- 👀 I’m interested in Python, Django, MATLAB, HTML and more.
 - 🌱 I’m currently learning Web Development using Django.
 - 💞️ I’m looking to collaborate on any related project.
 - 📫 How to reach me: carlosaprado@gmail.com
