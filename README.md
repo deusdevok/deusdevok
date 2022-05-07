@@ -24,3 +24,6 @@ You can click the Preview link to take a look at your changes.
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosbionic&count_private=true&show_icons=true&theme=highcontrast&hide_border=true"> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosbionic&layout=compact&hide=fortran,Jupyter%20Notebook&theme=buefy&hide_border=true"> |
 | ------------- | ------------- |
+
+
+<a href="https://info.flagcounter.com/JAgU"><img src="https://s05.flagcounter.com/count2/JAgU/bg_000000/txt_FFFFFF/border_CCCCCC/columns_8/maxflags_104/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
