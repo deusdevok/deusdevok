@@ -3,7 +3,7 @@ carlosbionic/carlosbionic is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="https://github.com/carlosbionic/carlosbionic/blob/main/header.png" alt="banner image carlos">
+<img src="https://github.com/carlosbionic/carlosbionic/blob/main/githubheaderimgcarlos.jpg" alt="banner image carlos">
 
 **About me**
 
