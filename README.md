@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 **About me**
 
 - 👀 I’m interested in Python, Django, Flask, MATLAB, HTML and more.
-- 🌱 I’m currently learning Web Development using Django.
+- 🌱 I’m currently working on Web Development, mostly using Django.
 - 💞️ I’m looking to collaborate on any related project.
 - 📫 How to reach me: carlosaprado@gmail.com
 - 💾 My personal website: http://deusdev.tech/
