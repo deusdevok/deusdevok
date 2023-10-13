@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Flask-Dark.svg" alt="icon" width="67" style="width: 67px; height: 67px; margin-right: 54px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="67" style="width: 67px; height: 67px; margin-right: 54px; margin-bottom: 54px;" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Heroku.svg" alt="icon" width="67" style="width: 67px; height: 67px; margin-right: 54px; margin-bottom: 0px;" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="67" style="width: 67px; height: 67px; margin-right: 54px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="67" style="width: 67px; height: 67px; margin-right: 54px; margin-bottom: 0px;" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/PostgreSQL-Dark.svg" alt="icon" width="67" style="width: 67px; height: 67px; margin-right: 54px; margin-bottom: 0px;" />  
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/SQLite.svg" alt="icon" width="67" style="width: 67px; height: 67px; margin-right: 54px; margin-bottom: 0px;" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/TensorFlow-Dark.svg" alt="icon" width="67" style="width: 67px; height: 67px; margin-right: 54px; margin-bottom: 0px;" />
