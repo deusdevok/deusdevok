@@ -7,14 +7,13 @@ You can click the Preview link to take a look at your changes.
 
 # About me
 
-- 👀 I’m interested in Python, Django, Flask, MATLAB, HTML and more.
-- 🌱 I’m currently working on Web Development, mostly using Django.
-- 💞️ I’m looking to collaborate on any related project.
+- 👀 I work with Python, Django, Flask, FastAPI, AWS, GCP.
+- 🌱 I'm currently working on Backend Web Development with Python.
+- 💞️ I'm looking to collaborate on any related project.
 - 📫 How to reach me: carlosaprado@gmail.com
-- 💾 My personal website: https://deusdev.click/
 
 # Languages and Tools:
-
+https://cdn.icon-icons.com/icons2/2699/PNG/512/google_cloud_logo_icon_171058.png
 <div style="display: flex;">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="67" style="width: 67px; height: 67px; margin-right: 0px; margin-bottom: 54px;" />
   <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="67" style="width: 67px; height: 67px; margin-right: 54px; margin-bottom: 54px;" />
@@ -22,6 +21,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Flask-Dark.svg" alt="icon" width="67" style="width: 67px; height: 67px; margin-right: 54px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="67" style="width: 67px; height: 67px; margin-right: 54px; margin-bottom: 54px;" />
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="67" style="width: 67px; height: 67px; margin-right: 54px; margin-bottom: 0px;" />
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_cloud_logo_icon_171058.png" alt="icon" width="67" style="width: 67px; height: 67px; margin-right: 54px; margin-bottom: 0px;" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/PostgreSQL-Dark.svg" alt="icon" width="67" style="width: 67px; height: 67px; margin-right: 54px; margin-bottom: 0px;" />  
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/SQLite.svg" alt="icon" width="67" style="width: 67px; height: 67px; margin-right: 54px; margin-bottom: 0px;" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/TensorFlow-Dark.svg" alt="icon" width="67" style="width: 67px; height: 67px; margin-right: 54px; margin-bottom: 0px;" />
