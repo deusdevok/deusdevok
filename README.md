@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me: carlosaprado@gmail.com
 
 # Languages and Tools:
-https://cdn.icon-icons.com/icons2/2699/PNG/512/google_cloud_logo_icon_171058.png
+
 <div style="display: flex;">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="67" style="width: 67px; height: 67px; margin-right: 0px; margin-bottom: 54px;" />
   <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="67" style="width: 67px; height: 67px; margin-right: 54px; margin-bottom: 54px;" />
