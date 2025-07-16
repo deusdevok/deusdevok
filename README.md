@@ -7,10 +7,10 @@ You can click the Preview link to take a look at your changes.
 
 # About me
 
-- 👀 I work with Python, Django, Flask, FastAPI, AWS, GCP.
+- 👀 I work with Python, FastAPI, AWS, Docker, and more.
 - 🌱 I'm currently working on Backend Web Development with Python.
 - 💞️ I'm looking to collaborate on any related project.
-- 📫 How to reach me: carlosaprado@gmail.com
+- 📫 How to reach me: carlosaprado@gmail.com, [Linkedin](https://www.linkedin.com/in/carlosaprado/)
 
 # Languages and Tools:
 
@@ -51,7 +51,3 @@ You can click the Preview link to take a look at your changes.
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=deusdevok&count_private=true&show_icons=true&theme=highcontrast&hide_border=true"> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deusdevok&hide=fortran,Jupyter%20Notebook&theme=buefy&hide_border=true"> |
 | ------------- | ------------- |
-
-<a href="https://info.flagcounter.com/JAgU"><img src="https://s05.flagcounter.com/count2/JAgU/bg_000000/txt_FFFFFF/border_CCCCCC/columns_8/maxflags_104/viewers_0/labels_0/pageviews_1/flags_1/percent_0/" alt="Flag Counter" border="0"></a>
-
-![](https://komarev.com/ghpvc/?username=deusdevok&style=for-the-badge)
