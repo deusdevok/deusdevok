@@ -7,10 +7,10 @@ You can click the Preview link to take a look at your changes.
 
 # About me
 
-- 👀 I work with Python, FastAPI, AWS, Docker, and more.
-- 🌱 I'm currently working on Backend Web Development with Python.
+- 👀 I work with Python, FastAPI, AWS, Docker, React, etc.
+- 🌱 I'm currently working on Data Science and Backend Development.
 - 💞️ I'm looking to collaborate on any related project.
-- 📫 How to reach me: carlosaprado@gmail.com, [Linkedin](https://www.linkedin.com/in/carlosaprado/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/carlosaprado/)
 
 # Languages and Tools:
 
